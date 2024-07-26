@@ -1,0 +1,106 @@
+{
+    "DL": {
+        "POS": [
+            188,
+            89
+        ],
+        "font_color": [
+            28,
+            25,
+            116
+        ],
+        "font_size": 0.6,
+        "thickness": 1
+    },
+    "EXP": {
+        "POS": [
+            195,
+            110
+        ],
+        "font_color": [
+            28,
+            25,
+            116
+        ],
+        "font_size": 0.45,
+        "thickness": 1
+    },
+    "last_name": {
+        "POS": [
+            188,
+            130
+        ],
+        "font_color": [
+            0,
+            0,
+            0
+        ],
+        "font_size": 0.45,
+        "thickness": 1
+    },
+    "first_name": {
+        "POS": [
+            188,
+            145
+        ],
+        "font_color": [
+            0,
+            0,
+            0
+        ],
+        "font_size": 0.45,
+        "thickness": 1
+    },
+    "Address1": {
+        "POS": [
+            167,
+            158
+        ],
+        "font_color": [
+            0,
+            0,
+            0
+        ],
+        "font_size": 0.3,
+        "thickness": 1
+    },
+    "Address2": {
+        "POS": [
+            167,
+            170
+        ],
+        "font_color": [
+            0,
+            0,
+            0
+        ],
+        "font_size": 0.3,
+        "thickness": 1
+    },
+    "DOB": {
+        "POS": [
+            198,
+            189
+        ],
+        "font_color": [
+            28,
+            25,
+            116
+        ],
+        "font_size": 0.45,
+        "thickness": 1
+    },
+    "ISS": {
+        "POS": [
+            386,
+            271
+        ],
+        "font_color": [
+            0,
+            0,
+            0
+        ],
+        "font_size": 0.3,
+        "thickness": 1
+    }
+}
